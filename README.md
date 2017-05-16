@@ -10,6 +10,7 @@
 # Quick Start
 - bin/start.sh [port] [group_name]
 - bin/stop.sh [port] [group_name]
+
 示例：
 ```shell
 # bin/start.sh 10001 demo
